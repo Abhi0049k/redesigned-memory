@@ -1,0 +1,3 @@
+Employee Id: 1
+Student Name: Mangalam
+Employee Salary: 13500.00
