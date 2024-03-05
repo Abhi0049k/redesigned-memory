@@ -1,3 +1,0 @@
-Student Name: Mangalam
-Student Age: 20
-Student CGPA: 8.60
